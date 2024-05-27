@@ -14,8 +14,8 @@ The Celebrity Contact Generator is a Python program designed to search and retri
 Input a ContactID: 1002
 
 ContactID: 1002
-Name: Magnus Carlsen
-Occupation: Chess Player
-Company Name: Play Magnus Group
-Website: https://playmagnusgroup.com/
-Email: magnus@chess24.com
+- Name: Magnus Carlsen
+- Occupation: Chess Player
+- Company Name: Play Magnus Group
+- Website: https://playmagnusgroup.com/
+- Email: magnus@chess24.com
